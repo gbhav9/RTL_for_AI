@@ -1,0 +1,2 @@
+In signed math, overflow occurs if you add two positive numbers and get a negative number or add two negative numbers and get a positive number.
+In this code we use the N th bit to catch the carry/overflow bit before it corrupts the N-bit result.
